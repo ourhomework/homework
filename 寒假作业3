@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#define N 12
-#define M 1000
+#define N 11
+#define M 11
 int main()
 { printf("请输入题目数量：");
 	int shu,i=0,j;
